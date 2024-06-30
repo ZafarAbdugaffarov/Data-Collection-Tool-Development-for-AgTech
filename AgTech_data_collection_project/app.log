@@ -1,0 +1,6 @@
+2024-06-30 16:51:25,401 - root - ERROR - An error occurred: Cannot save file into a non-existent directory: 'data'
+2024-06-30 16:51:26,686 - root - ERROR - An error occurred: Cannot save file into a non-existent directory: 'data'
+2024-06-30 16:53:26,146 - root - ERROR - An error occurred: Cannot save file into a non-existent directory: 'data'
+2024-06-30 16:53:27,092 - root - ERROR - An error occurred: Cannot save file into a non-existent directory: 'data'
+2024-06-30 16:54:25,914 - IndustrySalesCollector - INFO - Data saved to data/industry_sales.csv
+2024-06-30 16:54:26,820 - EconomicIndicatorsCollector - INFO - Data saved to data/economic_indicators.csv
