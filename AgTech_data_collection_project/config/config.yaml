@@ -1,4 +1,4 @@
-nass_api_key: "B815EEEE-C077-3DAC-876A-39FD099492D8"
+nass_api_key: "your-nass-api-key"
 
 industry_sales:
     url: "https://quickstats.nass.usda.gov/api/api_GET/"
